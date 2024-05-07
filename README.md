@@ -3,7 +3,7 @@
 
 This repository provides a guide to setting up Amazon S3 for file storage in your Laravel application.
 
-<img src="https://github.com/mrwilbroad/quality-images/raw/main/Screenshot%20from%202023-05-06%2000-37-01.png"/ alt="otmane elhaddaji aws s3">
+<img src="https://github.com/mrwilbroad/quality-images/raw/main/Screenshot%20from%202023-05-06%2000-37-01.png" alt="otmane elhaddaji aws s3">
 
 
 # amazon-s3-filesystem-laravel
